@@ -1,0 +1,9 @@
+.pic {
+  height: 80px;
+}
+.final-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
